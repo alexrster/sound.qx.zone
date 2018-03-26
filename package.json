@@ -1,0 +1,19 @@
+{
+  "name": "sound.qx.zone",
+  "version": "1.0.13",
+  "description": "AY",
+  "main": "index.html",
+  "dependencies": {
+    "yo": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexrster/sound.qx.zone/"
+  },
+  "author": "AY",
+  "license": "ISC"
+}
